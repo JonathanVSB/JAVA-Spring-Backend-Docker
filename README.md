@@ -1,13 +1,3 @@
-# 🚚 INDITEX Java Backend Challenge ☕️
-
-Category   ➡️   Software
-
-Subcategory   ➡️   Java Backend
-
-Difficulty   ➡️   Easy
-
----
-
 ## 🌐 Background
 
 As logistics and e-commerce continue to expand, efficient and intelligent supply chain management becomes critical. In this challenge, you will step into the role of a developer tasked with building the core functionality of a logistics management system, focusing on the seamless coordination between orders and logistics centers. From creating and managing logistics centers to implementing automatic assignment algorithms and real-time distance calculations, this project simulates the dynamic requirements of a modern supply chain. Reflecting the industry’s commitment to precision and optimization, this challenge emphasizes delivering robust, scalable, and user-friendly solutions to ensure operational excellence.
