@@ -376,48 +376,6 @@ But in this case the message that appears in the last order is different, becaus
 
 ---
 
-### More information
-
-The [application.properties](src/main/resources/application.properties) file contains the configuration necessary for the correct functioning of the application. 
-
-**The tests will simulate the interaction of a user directly with the API running in a container and exposed on port 3000**
-
-
-## 📤 Submission
-
-1. Solve the proposed tasks.
-2. Continuously push the changes you have made.
-3. Wait for the results.
-4. Click submit challenge when you have reached your maximum score.
-
-## 📊 Evaluation
-
-The final score will be given according to whether or not the objectives have been met.
-
-In this case, the challenge will be evaluated on 1600 (1200 for tasks and 400 for code quality) points which are distributed as follows:
-
-- **Task 1**: 100 points
-- **Task 2**: 400 points
-- **Task 3**: 200 points
-- **Task 4**: 500 points
-- **Code quality**: 400 points
-
-## ❓ Additional information
-
-Only the files proposed in the objectives should be modified. You are not allowed to modify anything other than the proposed files.
-
-**Q1: What happens if I modify files that are not in scope?**
-
-A1: The correction will fail because those changes will not be taken into account.
-
-**Q2: Can I add resources that are not in pom.xml?**
-
-A2: No, everything needed to complete the challenge is included.
-
-**Q3: Can I modify docker-compose?**
-
-A3: No, modifying this file may cause the application to malfunction.
-
 
 
 
