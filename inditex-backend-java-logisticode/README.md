@@ -1,11 +1,8 @@
-# 🚚 INDITEX Java Backend Challenge ☕️
+Java Backend Challenge ☕️
 
 Category   ➡️   Software
 
 Subcategory   ➡️   Java Backend
-
-Difficulty   ➡️   Easy
-
 ---
 
 ## 🌐 Background
